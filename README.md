@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hello everyone!
+My name is Ira and I don't know what to do :)
